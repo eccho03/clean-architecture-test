@@ -23,7 +23,7 @@ class MainActivity : ComponentActivity() {
             CapstonTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "eun",
+                        name = "chae",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
